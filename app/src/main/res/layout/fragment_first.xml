@@ -6,9 +6,20 @@
     android:orientation="vertical">
 
 
-    <TextView
-        android:text="@string/string_first"
-        android:textSize="30sp"
+    <Button
+        android:text="@string/begin_download"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
+
+    <Button
+        android:text="@string/stop_load"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:text="@string/cancel_load"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
 </LinearLayout>

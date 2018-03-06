@@ -19,4 +19,6 @@ public class FirstFragment extends Fragment {
         View view=inflater.inflate(R.layout.fragment_first,null);
         return view;
     }
+
+
 }
