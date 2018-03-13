@@ -9,4 +9,8 @@
         <item name="android:windowContentOverlay">@null</item>
     </style>
 
+
+    <style name="NoOverlay" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
 </resources>
